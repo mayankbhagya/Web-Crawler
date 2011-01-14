@@ -1,0 +1,11 @@
+CRAWLER.PY
+
+A python module that can crawl webpages based on the anchor tag.
+
+USE_CRAWLER.PY
+
+A simple example demonstrating how to use the CRAWLER MODULE.
+
+LIST_ATTRIBUTES
+
+A list of other attributes that can be used to fetch URLs from web pages.
